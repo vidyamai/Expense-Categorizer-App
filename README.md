@@ -79,7 +79,7 @@ cd expense-categorizer-app
 ```
 
 ### 4.Install Tesseract OCR
-📦 Tesseract Installation Guide
+Tesseract Installation Guide
 Make sure it's in your system PATH or update the path in ocr_processor.py.
 
 
