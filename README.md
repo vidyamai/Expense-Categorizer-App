@@ -4,7 +4,7 @@ A smart and intuitive web app that helps users upload bills and statements, auto
 
 ---
 
-## 📚 Table of Contents
+##  Table of Contents
 
 - [Features ](#features)
 - [Prerequisites ](#prerequisites)
