@@ -4,7 +4,7 @@ A smart and intuitive web app that helps users upload bills and statements, auto
 
 ---
 
-![Walkthrough](https://github.com/vidyamai/Expense-Categorizer-App/blob/main/App-Walkthrough.mp4)
+![Image](https://github.com/user-attachments/assets/abc39055-7ab0-4d65-a066-c04e71c363b7)
 
 
 ##  Table of Contents
