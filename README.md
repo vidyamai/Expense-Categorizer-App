@@ -6,7 +6,7 @@ A smart and intuitive web app that helps users upload bills and statements, auto
 
 ## 📚 Table of Contents
 
-- [Features ](#--features)
+- [Features ](#features)
 - [Prerequisites ](#-prerequisites)
 - [Setup Instructions ](#-setup-instructions)
   - [Clone the Repository](#1-clone-the-repository)
@@ -25,7 +25,7 @@ A smart and intuitive web app that helps users upload bills and statements, auto
 - [Acknowledgments ](#-acknowledgments)
 
 
-##  Features
+## Features
 
 -  User authentication with secure login
 -  Upload receipts as **images or PDFs**
@@ -37,7 +37,7 @@ A smart and intuitive web app that helps users upload bills and statements, auto
 
 ---
 
-##  Prerequisites
+## Prerequisites
 
 - Python 3.8 or higher  
 - Tesseract OCR installed and configured in PATH  
