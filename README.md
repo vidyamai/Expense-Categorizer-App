@@ -8,21 +8,21 @@ A smart and intuitive web app that helps users upload bills and statements, auto
 
 - [Features ](#features)
 - [Prerequisites ](#prerequisites)
-- [Setup Instructions ](#-setup-instructions)
-  - [Clone the Repository](#1-clone-the-repository)
-  - [Create and Activate Virtual Environment](#2-create-and-activate-a-virtual-environment)
-  - [Install Dependencies](#3-install-dependencies)
-  - [Install Tesseract OCR](#4-install-tesseract-ocr)
-- [Running the Application ](#-running-the-application)
-- [Usage Guide ](#-usage-guide)
+- [Setup Instructions ](#setup-instructions)
+  - [Clone the Repository](#1.-clone-the-repository)
+  - [Create and Activate Virtual Environment](#2.-create-and-activate-a-virtual-environment)
+  - [Install Dependencies](#3.-install-dependencies)
+  - [Install Tesseract OCR](#4.-install-tesseract-ocr)
+- [Running the Application ](#running-the-application)
+- [Usage Guide ](#usage-guide)
   - [Uploading Expenses](#uploading-expenses)
   - [Reviewing and Editing](#reviewing-and-editing)
   - [Visualizations](#visualizations)
-- [Security Notes ](#-security-notes)
-- [Troubleshooting ](#-troubleshooting)
-- [Contributing ](#-contributing)
-- [License ](#-license)
-- [Acknowledgments ](#-acknowledgments)
+- [Security Notes ](#security-notes)
+- [Troubleshooting ](#troubleshooting)
+- [Contributing ](#contributing)
+- [License ](#license)
+- [Acknowledgments ](#acknowledgments)
 
 
 ## Features
@@ -46,7 +46,7 @@ A smart and intuitive web app that helps users upload bills and statements, auto
 
 ---
 
-##  Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the repository
 
