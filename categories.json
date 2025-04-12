@@ -1,0 +1,60 @@
+{
+    "Groceries": [
+        "grocery", "supermarket", "food mart", "kroger", "safeway", "albertsons", "trader joe's",
+        "whole foods", "aldi", "wegmans", "publix", "walmart grocery", "target grocery", "shop rite",
+        "milk", "bread", "eggs", "butter", "sugar", "flour", "rice", "pasta", "cereal", "vegetables",
+        "fruits", "meat", "seafood", "dairy", "condiments", "bakery"
+    ],
+    "Snacks": [
+        "snack", "candy", "chocolate", "chips", "cookies", "popcorn", "nuts", "pretzels", 
+        "crackers", "granola", "energy bar", "protein bar", "gum", "mints", "ice cream",
+        "sweet", "treat", "doritos", "cheetos", "lays", "pringles", "oreo", "kitkat", "snickers"
+    ],
+    "Fruits": [
+        "apple", "orange", "banana", "grape", "strawberry", "blueberry", "blackberry", "raspberry",
+        "watermelon", "cantaloupe", "honeydew", "pear", "peach", "plum", "nectarine", "apricot",
+        "cherry", "kiwi", "mango", "pineapple", "avocado", "lemon", "lime", "grapefruit"
+    ],
+    "Personal Care": [
+        "shampoo", "conditioner", "soap", "body wash", "toothpaste", "toothbrush", "floss", "mouthwash",
+        "deodorant", "antiperspirant", "lotion", "moisturizer", "sunscreen", "razor", "shaving cream",
+        "tissue", "toilet paper", "cosmetics", "makeup", "lipstick", "mascara", "nail polish", "hair dye",
+        "hair product", "skin care", "face wash", "cleanser", "toner", "face mask", "cotton"
+    ],
+    "Clothing": [
+        "shirt", "t-shirt", "blouse", "pants", "jeans", "shorts", "skirt", "dress", "suit", "jacket",
+        "coat", "sweater", "cardigan", "hoodie", "sweatshirt", "sweatpants", "socks", "underwear",
+        "lingerie", "pajamas", "shoes", "sneakers", "boots", "sandals", "slippers", "hat", "cap",
+        "beanie", "gloves", "mittens", "scarf", "belt", "tie", "accessories", "jewelry", "watch"
+    ],
+    "Dining Out": [
+        "restaurant", "cafe", "coffee shop", "diner", "fast food", "takeout", "delivery", "grubhub",
+        "ubereats", "doordash", "postmates", "seamless", "pizza", "burger", "sandwich", "salad",
+        "sushi", "chinese", "mexican", "italian", "thai", "japanese", "indian", "french", "bbq",
+        "steak", "seafood", "brunch", "lunch", "dinner", "breakfast", "appetizer", "dessert", "drink"
+    ],
+    "Travel": [
+        "flight", "airplane", "airline", "ticket", "airport", "hotel", "motel", "hostel", "airbnb",
+        "vrbo", "rental", "car rental", "taxi", "uber", "lyft", "train", "bus", "subway", "metro",
+        "gas", "fuel", "gasoline", "toll", "parking", "luggage", "suitcase", "baggage", "travel",
+        "vacation", "trip", "tourism", "tourist", "cruise", "ship", "boat", "ferry"
+    ],
+    "Entertainment": [
+        "movie", "theater", "cinema", "concert", "show", "play", "musical", "opera", "ballet",
+        "ticket", "admission", "amusement park", "theme park", "zoo", "museum", "gallery", "exhibit",
+        "event", "festival", "fair", "carnival", "circus", "sport", "game", "match", "stadium",
+        "arena", "bowling", "arcade", "laser tag", "escape room", "netflix", "hulu", "disney+",
+        "spotify", "pandora", "apple music", "book", "magazine", "newspaper", "subscription"
+    ],
+    "Utilities": [
+        "electric", "electricity", "gas", "water", "sewer", "trash", "garbage", "recycling", "utility",
+        "bill", "subscription", "internet", "wifi", "broadband", "cable", "satellite", "tv", "television",
+        "phone", "cell phone", "mobile", "landline", "service"
+    ],
+    "Health": [
+        "doctor", "physician", "medical", "healthcare", "health", "hospital", "clinic", "emergency",
+        "urgent care", "prescription", "medication", "medicine", "pharmacy", "drug store", "vitamin",
+        "supplement", "insurance", "copay", "deductible", "dental", "dentist", "orthodontist", "vision",
+        "optometrist", "eye doctor", "glasses", "contacts", "therapy", "counseling", "mental health"
+    ]
+}
