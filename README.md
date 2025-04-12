@@ -40,13 +40,19 @@ cd expense-categorizer-app
 ```
 
 ### On Windows:
+```bash
 -venv\Scripts\activate
+```
 
 ### On macOS/Linux:
+```bash
 -source venv/bin/activate
+```
 
 ### 3. Install dependencies
+```bash
 -pip install -r requirements.txt
+```
 
 ### 4. Install Tesseract OCR
 📦 Tesseract Installation Guide
@@ -54,4 +60,63 @@ Make sure it's in your system PATH or update the path in ocr_processor.py.
 
 
 ## Running the Application
+```bash
 python app.py
+```
+###Visit the application in your browser:
+```bash
+http://localhost:5000
+```
+
+ Usage Guide
+Uploading Expenses
+Go to the Upload page
+
+Select a bill or statement (PDF or image)
+
+The app will scan the file and extract items
+
+Reviewing and Editing
+Review extracted items and categories
+
+Change incorrect categories using dropdowns
+
+Mark unnecessary items using delete checkbox
+
+Click Apply Changes to save your data
+
+Visualizations
+View a pie chart of your spending breakdown
+
+See total amounts spent per category
+
+🔒 Security Notes
+User sessions are managed with Flask-Login
+
+Only valid file types are accepted
+
+Categorization is processed locally
+
+User edits are remembered for future bills
+
+🔧 Troubleshooting
+Problem	Solution
+"Tesseract is not installed"	Install it and add to system PATH
+"No text could be extracted"	Ensure file is readable (good quality scan)
+App crashes on upload	Check for file format and size
+Category doesn't match	Fix it once — app will learn next time
+🤝 Contributing
+Want to improve this project?
+Feel free to fork it and submit a pull request!
+For major changes, please open an issue first to discuss your idea.
+
+📄 License
+MIT License
+
+👏 Acknowledgments
+🧠 Open Food Facts for food category data
+
+🧰 Tesseract OCR
+
+⚙️ Flask, Bootstrap, Chart.js for framework and UI components
+
