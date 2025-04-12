@@ -7,7 +7,7 @@ A smart and intuitive web app that helps users upload bills and statements, auto
 ## 📚 Table of Contents
 
 - [Features ](#features)
-- [Prerequisites ](#-prerequisites)
+- [Prerequisites ](#prerequisites)
 - [Setup Instructions ](#-setup-instructions)
   - [Clone the Repository](#1-clone-the-repository)
   - [Create and Activate Virtual Environment](#2-create-and-activate-a-virtual-environment)
