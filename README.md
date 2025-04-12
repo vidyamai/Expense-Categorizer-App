@@ -32,9 +32,12 @@ A smart and intuitive web app that helps users upload bills and statements, auto
 ```bash
 git clone https://github.com/yourusername/expense-categorizer-app.git
 cd expense-categorizer-app
+```
 
 ### 2. Create and activate a virtual environment
+```bash
 -python -m venv venv
+```
 
 ### On Windows:
 -venv\Scripts\activate
