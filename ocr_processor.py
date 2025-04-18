@@ -4,9 +4,12 @@ import logging
 import cv2
 import numpy as np
 import pytesseract
+pytesseract.pytesseract.tesseract_cmd = r'/usr/bin/tesseract'
 from PIL import Image
 from pdf2image import convert_from_path
 from datetime import datetime
+
+
 
 # Set up logging
 logging.basicConfig(level=logging.DEBUG)
